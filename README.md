@@ -22,6 +22,7 @@ Ahora en Henry me especialicé en JavaScript.</h3>
 <h3>Email: freire.leandro@hotmail.com</h3>
 <h3 align="left">Cel: +54 351 6001010</h3>
 </p>
+  <hr>
   <br></br>
 
 <h3 align="left">Lenguajes y herramientas:</h3>
