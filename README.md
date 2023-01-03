@@ -16,9 +16,11 @@ Ahora en Henry me especialicé en JavaScript.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leandrofreire1981" alt="leandrofreire1981" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contacto:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/freireleandro/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/freireleandro/" height="30" width="40" /></a>
+<a>Email: freire.leandro@hotmail.com</a>
+  <a>Cel: +54 351 6001010</a>
 </p>
 
 <h3 align="left">Lenguajes y herramientas:</h3>
