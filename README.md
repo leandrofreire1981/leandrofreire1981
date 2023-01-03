@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @leandrofreire1981
-- 👀 I’m interested in software
-- 🌱 I’m currently learning software development
+- 👋 Mi nombre es Leandro Freire.
+
+- ¿Quién soy? 
+- Soy programador Full Stack.
+- 
+- 👀 Me gusta la programación desde los 10 años que aprendi Qbasic. Luego en la universidad aprendí un poco de asembler pero mucho de C++ y Java.
+- Ahora en Henry me especialicé en JavaScript.
+
+- ¿Qué hago?
+- 
+- 🌱 Actualmente estoy realizando proyectos de manera independiente para sumar mayo cantidad de experiencia mienstra encuentro mi oportunidad laboral.
+- 
+- 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
-leandrofreire1981/leandrofreire1981 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
