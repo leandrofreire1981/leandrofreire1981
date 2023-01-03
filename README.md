@@ -17,7 +17,8 @@
 - 
 - ¿Qué tecnologías utilizo actualmente?
 -
-![image](https://user-images.githubusercontent.com/61033991/210426448-88e09bf4-3ee0-4da7-97d5-b56befa2affa.png)
+- JavaScript ![image](https://user-images.githubusercontent.com/61033991/210427134-0babb14f-087e-45d7-b25b-74a13733fc1b.png)
+
 - React.js
 - React Native
 - Node.js
