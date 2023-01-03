@@ -19,8 +19,8 @@ Ahora en Henry me especialicé en JavaScript.</h3>
 <h3 align="left">Contacto:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/freireleandro/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/freireleandro/" height="30" width="40" /></a>
-<a>Email: freire.leandro@hotmail.com</a>
-  <a>Cel: +54 351 6001010</a>
+<h2>Email: freire.leandro@hotmail.com</h2>
+  <h2>Cel: +54 351 6001010</h2>
 </p>
 
 <h3 align="left">Lenguajes y herramientas:</h3>
