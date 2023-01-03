@@ -33,6 +33,7 @@
 - Y una gran cantidad de softaware de diseño y edicion como Figma, Adobe Premiere, Photoshop, Sony Vegas, Zbrush, Simplify3D, Cura, y mas...
 -
 - Contactame, dame la oportunidad de demostrar mi capacidad y no te vas a arrepentir
+- E-mail: freire.leandro@hotmail.com
 
 
 
