@@ -1,5 +1,4 @@
 <h1 align="center"> 👋, Soy Leandro Freire</h1>
-<hr>
 <h3 align="center">Soy programador Full Stack.</h3>
 <h3 align="center">👀 Me gusta la programación desde los 10 años que aprendi Qbasic. Luego en la universidad aprendí un poco de asembler pero mucho de C++ y Java.
 Ahora en Henry me especialicé en JavaScript.</h3>
