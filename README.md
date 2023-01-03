@@ -5,11 +5,11 @@ Ahora en Henry me especialicé en JavaScript.</h3>
 
 <h2 align="center">- ¿Qué hago?
 - 
-- 🌱 Actualmente estoy realizando proyectos de manera independiente para sumar mayo cantidad de experiencia mienstra encuentro mi oportunidad laboral.<h2>
+- 🌱 Actualmente estoy realizando proyectos de manera independiente para sumar mayo cantidad de experiencia mientras encuentro mi oportunidad laboral.<h2>
   
 <h2 align="center">- ¿A dónde me dirijo?
 
-- En todos los ambitos laborales en donde me desempeñé pude lograr sobresalir con innovaciones y soluciones simples a problemas complejos. 
+- En todos los ámbitos laborales en donde me desempeñé pude lograr sobresalir con innovaciones y soluciones simples a problemas complejos. 
 - Tengo la confianza de poder destacar de la misma manera en el ambito del software.<h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leandrofreire1981&label=Profile%20views&color=0e75b6&style=flat" alt="leandrofreire1981" /> </p>
