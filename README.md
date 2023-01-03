@@ -17,7 +17,7 @@
 - 
 - ¿Qué tecnologías utilizo actualmente?
 -
-[- JavaScript ![image](https://user-images.githubusercontent.com/61033991/210427134-0babb14f-087e-45d7-b25b-74a13733fc1b.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+https://developer.mozilla.org/en-US/docs/Web/JavaScript
 
 - React.js
 - React Native
