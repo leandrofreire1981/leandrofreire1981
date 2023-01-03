@@ -10,8 +10,26 @@
 - 
 - 🌱 Actualmente estoy realizando proyectos de manera independiente para sumar mayo cantidad de experiencia mienstra encuentro mi oportunidad laboral.
 - 
+- ¿A dónde me dirijo?
+
+- En todos los ambitos laborales en donde me desempeñé pude lograr sobresalir con innovaciones y soluciones simples a problemas complejos. 
+- Tengo la confianza de poder destacar de la misma manera en el ambito del software.
 - 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- ¿Qué tecnologías utilizo actualmente?
+-
+- JavaScript
+- React.js
+- React Native
+- Node.js
+- Express.js
+- Sequilize
+- Mongoose
+- MongoDb
+- PostgreSQL
+- HTML
+- CSS
+- Sass
+-
+- Y una gran cantidad de softaware de diseño y edicion como Adobe Premiere, Photoshop, Zbrush, 
 
 
